@@ -2,6 +2,9 @@
 
 An interactive data dashboard that explores how human development, economic scale, and rising global temperatures shape a country's health risk.
 
+![Streamlit Dashboard Preview](<img width="1810" height="917" alt="SDG13" src="https://github.com/user-attachments/assets/2206aabd-05a1-40bd-9741-a85b1ce4a81f" />)
+
+
 🔗 **[Click here to view the Live Dashboard](https://sdg13-climate-health-risk-dashboard-lnfxhu4naa9cwzkopfmruv.streamlit.app/)**
 
 ---
