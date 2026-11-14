@@ -22,7 +22,13 @@ Following best design practices, the dashboard breaks down the story into four c
 3. **🎯 3. What can we do?** – A regional focus on ASEAN countries (with the Philippines highlighted) to show how smart city planning can protect citizens.
 4. **🧮 4. How we know (The method):** – The math and statistical models behind the data.
 
-### 1. Clone the repository
+## 💻 Local Installation & Usage
 ```bash
-git clone [https://github.com/YOUR_USERNAME/sdg13-climate-health-paradox.git](https://github.com/YOUR_USERNAME/sdg13-climate-health-paradox.git)
-cd sdg13-climate-health-paradox
+git clone https://github.com/EJTeope/SDG13-Climate-Health-Risk-Dashboard.git
+cd SDG13-Climate-Health-Risk-Dashboard
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 🛠️ Tech Stack
+* Python (Pandas, Plotly, Streamlit)
